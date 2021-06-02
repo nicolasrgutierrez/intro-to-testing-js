@@ -4,5 +4,31 @@ const helloWorld = function() {
 }
 
 function sayHello(name) {
-    return 'Hello, ' + name;
+    if (name === "Nick" || "Alex" || "Travis") {
+        return "Hello, " + name;
+    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
